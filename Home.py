@@ -8,8 +8,7 @@ markdown = """
 A Streamlit map template
 <https://github.com/opengeos/streamlit-map-template>
 """
-
-st.sidebar.title("Raju")
+st.sidebar.title("about")
 st.sidebar.info(markdown)
 logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
